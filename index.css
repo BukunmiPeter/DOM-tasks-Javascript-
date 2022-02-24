@@ -1,0 +1,26 @@
+#counterBox{
+    background-color: rgb(147, 231, 130);
+
+    height: 150px;
+    width: 300px;
+}
+
+#Pali {
+    background-color: rgb(100, 127, 214);
+
+    height: 150px;
+    width: 300px;
+}
+
+#colorart{
+    height: 150px;
+    width: 300px;
+    
+}
+
+
+#random{
+    background-color: rgb(36, 226, 185);
+    height: 150px;
+    width: 300px;
+}
